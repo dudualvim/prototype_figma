@@ -16,7 +16,7 @@ Link do Protótipo de um aplicativo para advogados!
 - [Figma](https://www.figma.com/file/rRFMT7DJIV8f3kF79618F8/In-Law?node-id=0%3A1)
 
 
-Link do Protótipo e do diagrama de um aplicativo de turismo em desenvolvimento!
+Link do Protótipo e do diagrama de um aplicativo de advogados em desenvolvimento!
 
 
 https://www.figma.com/file/rRFMT7DJIV8f3kF79618F8/In-Law?t=BagYQlbbYcdz1pcR-0
